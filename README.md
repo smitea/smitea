@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Metrics](https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg)
+
 <!--
 **smitea/smitea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
